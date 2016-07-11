@@ -1,5 +1,5 @@
 
-This code has been created by "Gohst". I am loading it into GitHub, to test some things out for a Content Managment system I am building just for Scratch users. More info coming soon! ~~~~Coke11
+This code has been created by "Ghost". I am loading it into GitHub, to test some things out for a Content Managment system I am building just for Scratch users. More info coming soon! ~~~~Coke11
 
 <a href="https://github.com/TryGhost/Ghost"><img src="https://cloud.githubusercontent.com/assets/120485/6622822/c4c639fe-c8e7-11e4-9e64-5bec06c8b4c3.png" alt="Ghost" /></a>
 <a href="https://travis-ci.org/TryGhost/Ghost"><img align="right" src="https://travis-ci.org/TryGhost/Ghost.svg?branch=master" alt="Build status" /></a>
